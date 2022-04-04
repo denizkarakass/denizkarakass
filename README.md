@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @denizkarakass .
-- 👀 I’m interested in cyber security.
-- 🌱 I’m currently learning cyber security and computer science.
-- 💞️ I’m looking to collaborate on other people which interested in cyber security.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning web devolopment and computer science.
 - 📫 How to reach me with instagram (@denizkarakas__ or @freelancedeniz) or Linkedln (@deniz-karakaş-).
 
 <!---
