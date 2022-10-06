@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denizkarakass .
 - 👀 I’m interested in MERN development.
-- 🌱 I’m currently learning MERN devolopment and computer science.
+- 🌱 I’m currently learning MERN,Java devolopment and computer science.
 - 📫 How to reach me with instagram (@denizkarakas__ or @freelancedeniz) or Linkedln (@deniz-karakaş-).
 
 
