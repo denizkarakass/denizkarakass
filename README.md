@@ -9,7 +9,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizkarakass&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=kutuphane-sistemi)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=kutuphane-sistemi)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=avukat-sitesi-nodejs)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=freelancer-marketing-app)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=video-chat-app)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=smart-edu)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=basit-sosyal-medya-uyg)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
