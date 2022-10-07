@@ -16,17 +16,16 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=basit-sosyal-medya-uyg.)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=labAssignment2-BMICalculate)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=not-ortalamas--uygulamasi)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=piyango-oyun)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=trafikbot)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=e-ticaret)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=dinamik-blog-yapma)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=asian-kitchen)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=saat-kodluyoruz)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=kodluyoruz-google)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=TypeScript-ile-urun-yonetimi)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=pwa-sistemi)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=js-ile-kayit-bilgisi-tutma-)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizkarakass&repo=js-ile-sayi-tahmin-oyunu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
