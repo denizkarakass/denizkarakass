@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denizkarakass .
-- 👀 I’m interested in web and robotics development.
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning  computer science and engineering.
 - 📫 How to reach me with instagram (@denizkarakas__ or @freelancedeniz) or Linkedln (@deniz-karakaş-).
 
