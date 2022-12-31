@@ -23,6 +23,7 @@
     <code><img title="Python" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/python-original.svg"></code>
     <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/javascript.svg"></code>
     <code><img title="Typescript" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/typescript.svg"></code>
+    <code><img title="Java" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/java-original.svg"></code>
     <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/problemSolving.png"></code>
     <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/html5.svg"></code>
     <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/css.svg"></code>
@@ -31,7 +32,6 @@
     <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/vscode.png"></code>
     <code><img title="Microsoft Visual Studio" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/visualstudio.png"></code>
     <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/jquery-original.svg"></code>
-    <code><img title="Java" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/java-original.svg"></code>
     <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/json.svg"></code>
     <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/github.svg"></code>
     <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/mysql.svg"></code>
