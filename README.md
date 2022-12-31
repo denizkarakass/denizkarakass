@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deniz Karakaş .
-- 👀 I’m interested with Javascript, TypeScript, Nestjs, Nodejs, Python, Java, PHP, HTML, CSS, MySql, MongoDB.
+- 👀 I’m interested with Javascript, TypeScript, Nestjs, Nodejs, Python, Java, HTML, CSS, MySql, MongoDB.
 - 🌱 I’m currently learning  computer science and engineering.
 
 
