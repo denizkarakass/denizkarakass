@@ -28,12 +28,14 @@
     <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/html5.svg"></code>
     <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/css.svg"></code>
     <code><img title="Nodejs" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/node.svg"></code>
+    <code><img title="Nestjs" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/nest.svg"></code>
     <code><img title="React" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/react-original.svg"></code>
     <code><img title="Git" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/git-original.svg"></code>
     <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/vscode.png"></code>
     <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/jquery-original.svg"></code>
     <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/json.svg"></code>
     <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/github.svg"></code>
+    <code><img title="MongoDB" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/mongoDB.svg"></code>
     <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/mysql.svg"></code>
     <code><img title="npm" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/npm.svg"></code>
   </p>
