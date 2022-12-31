@@ -27,6 +27,7 @@
     <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/problemSolving.png"></code>
     <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/html5.svg"></code>
     <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/css.svg"></code>
+    <code><img title="Nodejs" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/nodejs.svg"></code>
     <code><img title="React" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/react-original.svg"></code>
     <code><img title="Git" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/git-original.svg"></code>
     <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/vscode.png"></code>
