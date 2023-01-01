@@ -13,10 +13,10 @@
     📫 How to reach me: <a href="mailto: deniz@exnoremo.com">deniz@exnoremo.com</a>
     <br>
      <code>
-      <a href="https://www.linkedin.com/in/deniz-karakas-developer/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/linkedin.svg"> LinkedIn</a>
-        <a href="https://www.hackerrank.com/denizkarakas?hr_r=1" title="HackerRank Profile"><img width="22" src="![image](https://user-images.githubusercontent.com/96745481/210184226-6e80cafc-9698-44f3-87e9-d59cd927a795.png)
-![Uploading image.png…]()
-"> Hacker Rank</a>
+      <p>
+        <a href="https://www.linkedin.com/in/deniz-karakas-developer/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/linkedin.svg"> LinkedIn</a>
+       <a href="https://www.linkedin.com/in/deniz-karakas-developer/" title="Hacker Rank Profile"><img width="22" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/linkedin.svg"> LinkedIn</a>
+       </p>
   </code>
       <br>
   </p>
