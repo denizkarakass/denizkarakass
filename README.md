@@ -14,7 +14,9 @@
     <br>
      <code>
       <a href="https://www.linkedin.com/in/deniz-karakas-developer/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/linkedin.svg"> LinkedIn</a>
-        <a href="https://www.hackerrank.com/denizkarakas?hr_r=1" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/hackerrank.svg"> Hacker Rank</a>
+        <a href="https://www.hackerrank.com/denizkarakas?hr_r=1" title="HackerRank Profile"><img width="22" src="![image](https://user-images.githubusercontent.com/96745481/210184226-6e80cafc-9698-44f3-87e9-d59cd927a795.png)
+![Uploading image.png…]()
+"> Hacker Rank</a>
   </code>
       <br>
   </p>
