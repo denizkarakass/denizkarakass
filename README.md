@@ -11,7 +11,7 @@
     🏫 I'm currently studying in Manisa Celal Bayar University Computer Engineering
     <br>
     📫 How to reach me: <a href="mailto: deniz@exnoremo.com">deniz@exnoremo.com</a>
-    <br>
+    <br> 
      <code>
         <a href="https://www.linkedin.com/in/deniz-karakas-developer/" title="LinkedIn Profile"><img width="33" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/linkedin.svg"> LinkedIn   </a><a href="https://www.hackerrank.com/denizkarakas?hr_r=1" title="Hacker Rank Profile"><img width="33" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/hackerrank.svg"> Hacker Rank </a><a href="https://medium.com/@denizkarakas" title="Medium Profile"><img width="33" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/medium.svg"> Medium </a>
   </code>
