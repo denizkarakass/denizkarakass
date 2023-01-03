@@ -40,7 +40,7 @@
     <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/mysql.svg"></code>
     <code><img title="npm" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/npm.svg"></code>
   </p>
-  <hr>
+  <hr> 
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizkarakass&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizkarakass&show_icons=true&theme=radical)
