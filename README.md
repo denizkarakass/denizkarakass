@@ -6,7 +6,7 @@
     <br>
     📚 I love code challenge and learn new technology.
     <br>
-    💻 I’m currently developing Web Application with Nodejs, Nestjs.
+    💻 I’m currently developing Web Application.
     <br>
     🏫 I'm currently studying in Manisa Celal Bayar University Computer Engineering
     <br>
