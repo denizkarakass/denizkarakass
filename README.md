@@ -21,7 +21,6 @@
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
   <br>
   <p align="center">
-    <code><img title="Python" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/python-original.svg"></code>
     <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/javascript.svg"></code>
     <code><img title="Typescript" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/typescript.svg"></code>
     <code><img title="Java" height="25" src="https://raw.githubusercontent.com/denizkarakass/denizkarakass/main/images/java-original.svg"></code>
