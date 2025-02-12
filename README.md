@@ -6,7 +6,7 @@
     <br>
     📚 I love code challenge and learn new technology.
     <br>
-    💻 I’m currently developing Web Application.
+    💻 I’m currently developing Web and Mobile Application, AI and Data Science, digital marketing.
     <br>
     🏫 I'm currently studying in Manisa Celal Bayar University Computer Engineering
     <br>
